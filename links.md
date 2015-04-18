@@ -7,3 +7,4 @@ Communication channels:
 
 Interesting stuff:
 * [skyfielders](https://github.com/skyfielders)
+* [astrodigital](http://astrodigital.com)
